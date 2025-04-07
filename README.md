@@ -1,4 +1,4 @@
-<h1 align = "center">项目进展</h1>
+<center><h1>项目进展
 
 # 背景
 1. This is a **test**.
