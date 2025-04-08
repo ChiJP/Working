@@ -13,4 +13,4 @@
 # 计划
 - This is a test.
 # 引用
-https://7757.eu.org/%E4%BB%80%E4%B9%88%E6%98%AFBrandMaster.TXT
+(https://7757.eu.org/%E4%BB%80%E4%B9%88%E6%98%AFBrandMaster.TXT)
